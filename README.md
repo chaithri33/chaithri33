@@ -1,8 +1,7 @@
 # About me
 
 - 🔭 I’m Chaithri
-- 🌱 I’m currently working on my Software Engneering Assignment
-- 👯 I’m learning how to use github
+- 🌱 I’m currently studying B-Tech in Artificial Intelligence
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a scorpio 
 
